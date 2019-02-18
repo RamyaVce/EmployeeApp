@@ -1,0 +1,51 @@
+{
+    "EmployeeDetail" : [
+        {
+            "firstName" : "AAAA",
+            "lastName" : "aaaa",
+            "employeeId": "emp1"
+        },
+        {
+            "firstName" : "BBBB",
+            "lastName" : "bbbb",
+            "employeeId": "emp2"
+        },
+        {
+            "firstName" : "CCCCC",
+            "lastName" : "cccc",
+            "employeeId": "emp3"
+        },
+        {
+            "firstName" : "DDDD",
+            "lastName" : "dddd",
+            "employeeId": "emp4"
+        },
+        {
+            "firstName" : "EEEE",
+            "lastName" : "eeee",
+            "employeeId": "emp5"
+        }
+    ],
+    "SalaryDetail" : [
+        {
+            "employeeId": "emp1",
+            "salary" : 10000
+        },
+        {
+            "employeeId": "emp2",
+            "salary" : 20000
+        },
+        {
+            "employeeId": "emp3",
+            "salary" : 15000
+        },
+        {
+            "employeeId": "emp4",
+            "salary" : 25000
+        },
+        {
+            "employeeId": "emp5",
+            "salary" : 10000
+        }
+    ]
+}
